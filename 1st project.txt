@@ -1,0 +1,33 @@
+<html>
+<head>
+	<title>tic tac toe</title>
+</head>
+<body>
+	<h1>TIC TAC TOE</h1>
+enter name for player 1:<input type="text"placeholder="player 1">
+<br>
+enter name for player 2:<input type="text" placeholder="player 2">
+<br>
+<button>START GAME:</button>
+<br>
+player 1
+<br>
+player 2
+<table><Tr>
+<td><input type="text" placeholder="1"></td>
+<td><input type="text" placeholder="2"></td>
+<td><input type="text" placeholder="3"></td>
+</tr>
+<tr>
+<td><input type="text" placeholder="4"></td>
+<td><input type="text" placeholder="5"></td>
+<td><input type="text" placeholder="6"></td></tr>
+<tr>
+<td><input type="text" placeholder="7"></td>
+<td><input type="text" placeholder="8"></td>
+<td><input type="text" placeholder="9"></td>
+</tr></table>
+<input type="text" placeholder="index">
+<button>submit move</button>
+</body>
+</html>
