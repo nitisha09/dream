@@ -1,0 +1,24 @@
+<html>
+<head>
+<title>Google</title>
+<meta name="description" content="a searching engine"/>
+<meta name="keywords" content="gool, google,goo"/>
+</head>
+<body>
+<p align="right">Nitisha  Gmail  image</p>
+<center>
+<marquee><h4>welcome to google</h4></marquee>
+<img src="images/google.jpg"width="350px" height="210px">
+<br>
+<input type ="text"placeholder="search Google or type URL" size="75" height="20" value="">
+<br>
+<br>
+<br>
+<br>
+<button>Google Search</button>
+<button>I'm Feeling Lucky</button>
+
+</center>
+</body>
+
+</html>
